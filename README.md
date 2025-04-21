@@ -211,6 +211,6 @@ Se tudo ocorrer corretamente, na interface do Airflow (aba "Recent Tasks") você
 
 Após a execução, os arquivos serão gerados nas seguintes pastas:
 
-![alt text](image.png)
+![alt text](images/resultado2.png)
 
 O arquivo `dados_consolidados.parquet` representa a junção final dos dados de todas as cidades em um único dataset, pronto para análises ou visualizações futuras.
