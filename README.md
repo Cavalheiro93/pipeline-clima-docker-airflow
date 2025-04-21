@@ -1,4 +1,4 @@
-# 🌤️ Projeto 02 - Pipeline de Coleta e Processamento de Dados Climáticos com Airflow + Docker
+# Pipeline de Coleta e Processamento de Dados Climáticos com Airflow + Docker
 
 <br>
 
