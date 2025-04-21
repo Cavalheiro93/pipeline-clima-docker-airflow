@@ -214,3 +214,18 @@ Após a execução, os arquivos serão gerados nas seguintes pastas:
 ![alt text](images/resultado2.png)
 
 O arquivo `dados_consolidados.parquet` representa a junção final dos dados de todas as cidades em um único dataset, pronto para análises ou visualizações futuras.
+
+<br><br>
+
+## ✍️ Considerações Finais
+
+A ideia de construir este projeto surgiu logo após a conclusão do meu MVP em Engenharia de Dados ([mvp-brasileirao-data-engineering](https://github.com/Cavalheiro93/mvp-brasileirao-data-engineering)). Percebi que, para continuar evoluindo e ampliar meu leque de conhecimentos, era essencial colocar a mão na massa com mais frequência — explorando diferentes ferramentas e desafios reais da área de Engenharia de Dados.
+
+Após analisar diversas vagas no LinkedIn e entender as principais exigências do mercado, contei com a ajuda do ChatGPT para mapear quais ferramentas são realmente relevantes para essa jornada. Com isso, começamos juntos a desenhar uma sequência de projetos práticos — sendo este o primeiro de uma série de outros projetos que pretendo desenvolver ao longo do ano.
+
+Desde a concepção da ideia, passando pela montagem do pipeline e até a finalização da documentação, esse projeto foi construído com o suporte técnico, didático e criativo do ChatGPT. Uma parceria que me guiou, explicou cada conceito com clareza, e me desafiou a entender de verdade o que estava sendo feito em cada etapa.
+
+Esse é só o começo de uma trajetória que está sendo construída com esforço, curiosidade e paixão por dados.
+
+Em breve, novos desafios virão!!!
+
