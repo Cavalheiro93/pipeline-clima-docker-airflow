@@ -1,0 +1,6 @@
+{
+    "sao_paulo": {"lat": -23.55, "lon": -46.63},
+    "sao_bernardo": {"lat": -23.71, "lon": -46.65},
+    "rio_de_janeiro": {"lat": -22.90, "lon": -43.17},
+    "salvador": {"lat": -12.97, "lon": -38.50}
+}
