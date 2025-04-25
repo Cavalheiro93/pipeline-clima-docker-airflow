@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/icons/airflow2.png" width="140" />
+  <img src="images/icons/clima.png" width="89" />
   <img src="images/icons/docker-icon.png" width="89" />
   <img src="images/icons/airflow2.png" width="140" />
   <img src="images/icons/docker-icon.png" width="89" />
   <img src="images/icons/airflow2.png" width="140" />
   <img src="images/icons/docker-icon.png" width="89" />
-  <img src="images/icons/airflow2.png" width="140" />
+  <img src="images/icons/clima.png" width="89" />
 </p>
 
 # Pipeline de Coleta e Processamento de Dados Climáticos com Airflow + Docker
