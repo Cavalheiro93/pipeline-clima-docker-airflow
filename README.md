@@ -151,8 +151,8 @@ Se os passos anteriores foram seguidos com sucesso, acesse a interface web do Ai
 
 
 <p align="center">
-  <img src="images\image.png" alt="Tela de Login 1" width="40%" />
-  <img src="images\image2.png" alt="Tela de Login 2" width="49%" />
+  <img src="images/image.png" alt="Tela de Login 1" width="40%" />
+  <img src="images/image2.png" alt="Tela de Login 2" width="49%" />
 </p>
 
 <br><br>
